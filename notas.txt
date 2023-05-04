@@ -4,3 +4,4 @@ Capítulo 3: Repositorios remotos
 Capitulo 4: Rumbeando con los codigos - Agregado por Jose Pichardo
 Capitulo 5: Romito Python 3.16 - Agregado por Jose Pichardo
 Capitulo 6: Aprendiendo HTML5 - Agregado por Braulio Castillo
+Capitulo 7: Estoy aprendiendo Python
